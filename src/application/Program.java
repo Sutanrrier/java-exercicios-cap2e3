@@ -13,7 +13,6 @@ public class Program {
 		//ch3.question9();
 		Concepts conceitos = new Concepts();
 		conceitos.conceitos();
-		System.out.println("Teste mudança");
 		
 	}
 
